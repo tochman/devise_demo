@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Devise demo
 
 ## Getting Started
@@ -30,3 +31,7 @@ programming in style.
 * [Protocol](http://github.com/thoughtbot/guides/blob/master/protocol)
 * [Best Practices](http://github.com/thoughtbot/guides/blob/master/best-practices)
 * [Style](http://github.com/thoughtbot/guides/blob/master/style)
+=======
+# devise_demo
+Just a demo app
+>>>>>>> 6d5b175896007556a7b03bb66d779706b8a0d2a3
